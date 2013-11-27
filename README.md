@@ -1,0 +1,4 @@
+coffeescript-styleguide
+=======================
+
+coffeescript-styleguide
